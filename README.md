@@ -35,5 +35,5 @@ CustomLogin(
 |emailLabel | Text Label for the text above email form |
 |passwordLabel | Text Label for the text above password form |
 |emailValidator| Define your custom email validator here otherwise default email validator will be called |
-|passwordValidator | Define your custom email validator here otherwise default email validator will be called |
+|passwordValidator | Define your custom password validator here otherwise default password validator will be called |
 
