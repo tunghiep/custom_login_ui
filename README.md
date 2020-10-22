@@ -20,3 +20,20 @@ CustomLogin(
       emailValidator: (value) => value.contains("s") ? "Email contains S" : null, // customize validator
     )
 ```
+
+###  🚀 Overview
+
+| Property | Description |
+| --- | ----------- |
+|loginTextValue | Customize login's button text |
+|onLogIn | Handle login base on your business logic |
+|backGroundPath | Image path for background |
+|firstItemPath | Image path for the first item |
+|secondItemPath | Image path for the second item|
+|thirdItemPath | Image path for the third item |
+|hasLoginLabel | Bool value for visibility of the Login Label in header|
+|emailLabel | Text Label for the text above email form |
+|passwordLabel | Text Label for the text above password form |
+|emailValidator| Define your custom email validator here otherwise default email validator will be called |
+|passwordValidator | Define your custom email validator here otherwise default email validator will be called |
+
