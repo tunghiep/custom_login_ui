@@ -3,7 +3,7 @@
 Add **Custom Login UI** to your project by following the instructions on the 
 **[install page](https://pub.dev/packages/custom_login_ui/install)** and start using it:
 ```dart
-import 'package:custom_fade_animation/custom_login_ui.dart';
+import 'package:custom_login_ui/custom_login_ui.dart';
 ```
 ### 📈 Usage
 
